@@ -1,0 +1,52 @@
+{
+  "slug": "dream-foods-thrissur",
+  "name": "Dream Foods",
+  "shortName": "Dream",
+  "descriptor": "Catering Services",
+  "address": "Dream food's, 599/1, Kunduvara, Thrissur, Keralam 680020",
+  "area": "Kunduvara",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680020",
+  "geo": {
+    "lat": 10.5360303,
+    "lng": 76.22267049999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=9671132553290907728",
+  "phone": "+91 81569 68062",
+  "whatsapp": "918156968062",
+  "hours": "Open 12 pm – 8 pm · closed Sun",
+  "opens": "12:00",
+  "closes": "20:00",
+  "rating": 4.6,
+  "reviewCount": 41,
+  "reviews": [
+    {
+      "name": "Anupama Baburaj",
+      "rating": 5,
+      "quote": "Had a wonderful dining experience here! We ordered two meals along with pork fry and prawns fry, and everything was absolutely delicious. The flavors truly felt like a warm, comforting home-cooked meal. ​The portion sizes are very generous for the price, and the service was commendable,friendly, and attentive."
+    },
+    {
+      "name": "Suchiz VideoHub",
+      "rating": 4,
+      "quote": "Homely food and atmosphere.. liked the kerala sadya and chicken biriyani👌🏻"
+    },
+    {
+      "name": "Moidheen Moidhu.",
+      "rating": 5,
+      "quote": "The food was absolutely delicious, especially the main course, and the service was prompt and friendly. We had a wonderful dining experience😋"
+    },
+    {
+      "name": "psb mtr",
+      "rating": 4,
+      "quote": "Meals with 2 side dishes and a curry is charged at Rs 70. Same rate charged at similar restaurants in town. Served on banana leaves. Mangakkari was good one. It is in place of fish curry gravy usually served free of cost with Sambhar. Here there is no fish curry gravy. This tactics will push the customers to buy non veg items."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://dream-foods-thrissur.vercel.app"
+}
